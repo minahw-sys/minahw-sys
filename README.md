@@ -1,4 +1,4 @@
-<h2 align="center">Minah Woo</h2>
+<h2 align="center">Minah W</h2>
 <p align="center">
 Financial Analyst · FP&A · Financial Reporting · Business Intelligence
 </p>
