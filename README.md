@@ -23,7 +23,6 @@ With a master’s degree in Analytics, I continue to strengthen technical capabi
 
 - **Global Unicorn Company Analytics (SQL)**  
   Multi-table SQL project analyzing startup valuation, funding trends, and geographic investment patterns.  
-  *(In Progress)*
 
 ---
 
