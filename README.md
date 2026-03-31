@@ -1,17 +1,15 @@
 <h2 align="center">Minah W</h2>
 <p align="center">
-Financial Analyst · FP&A · Financial Reporting · Business Intelligence
+Financial Data Analyst · FP&A · Financial Reporting · Business Intelligence
 </p>
 
 ---
 
 ### About Me
 
-Financial analyst with experience in FP&A, operational finance, and financial reporting.
-
-My work has focused on budgeting support, variance analysis, accrual forecasting, and recurring performance reporting across functions including Marketing and R&D. I have worked extensively with financial datasets within ERP and Excel environments to support planning and reporting processes.
-
-With a master’s degree in Analytics, I continue to strengthen technical capabilities in SQL and business intelligence tools while applying them within financial reporting and performance analysis contexts.
+Financial Data Analyst with experience in FP&A, operational finance, and financial reporting.
+My work has focused on budgeting support, variance analysis, and recurring performance reporting across Marketing and R&D functions. I have worked extensively with ERP and Excel to reconcile complex financial datasets, ensuring data accuracy and integrity throughout the planning and reporting processes.
+With a Master’s degree in Analytics, I leverage SQL and business intelligence tools to automate workflows and enhance the precision of financial performance analysis.
 
 ---
 
@@ -23,7 +21,7 @@ With a master’s degree in Analytics, I continue to strengthen technical capabi
 
 - **Global Unicorn Company Analytics (SQL)**  
   Multi-table SQL project analyzing startup valuation, funding trends, and geographic investment patterns.  
-
+  → https://github.com/minahw-sys/unicorn-sql-analysis
 ---
 
 ### Technical Skills
