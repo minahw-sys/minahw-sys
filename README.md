@@ -22,6 +22,11 @@ With a Master’s degree in Analytics, I leverage SQL and business intelligence 
 - **Global Unicorn Company Analytics (SQL)**  
   Multi-table SQL project analyzing startup valuation, funding trends, and geographic investment patterns.  
   → https://github.com/minahw-sys/unicorn-sql-analysis
+
+- **Delivery Operations Analysis**  
+  Operational analysis of 60K+ grocery and retail delivery records, evaluating fulfillment performance, customer experience, and store-level efficiency.  
+  → https://github.com/minahw-sys/delivery-operations-analysis
+  
 ---
 
 ### Technical Skills
