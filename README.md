@@ -15,7 +15,7 @@ With a Master’s degree in Analytics, I leverage SQL and business intelligence 
 
 ### Featured Projects
 
-- **Power BI Sales Dashboard**  
+- **PowerBI Sales Dashboard (PowerBI)**  
   Interactive executive dashboard analyzing revenue performance, order volume, and regional sales distribution.  
   → https://github.com/minahw-sys/powerbi-sales-dashboard
 
@@ -23,7 +23,7 @@ With a Master’s degree in Analytics, I leverage SQL and business intelligence 
   Multi-table SQL project analyzing startup valuation, funding trends, and geographic investment patterns.  
   → https://github.com/minahw-sys/unicorn-sql-analysis
 
-- **Delivery Operations Analysis**  
+- **Delivery Operations Analysis (Excel)**  
   Operational analysis of 60K+ grocery and retail delivery records, evaluating fulfillment performance, customer experience, and store-level efficiency.  
   → https://github.com/minahw-sys/delivery-operations-analysis
   
